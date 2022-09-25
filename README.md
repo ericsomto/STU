@@ -2,8 +2,8 @@
 ## simple school report system or grade system 
 ## Deployment
 
-To deploy this project run
+To deploy this project run on git 
 
-```bash
-  npm run deploy school-report-system
+```
+   Git clone school-report-system
 ```
