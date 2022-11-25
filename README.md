@@ -1,4 +1,4 @@
-#### This is a simple school result system
+#### This is a simple school result system given to me as a project in school
 
 ### Optimizations
 
