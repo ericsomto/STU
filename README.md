@@ -11,7 +11,7 @@
 To deploy this project run on git 
 
 ```
-   Git clone school-report-system
+   Git clone STU
 ```
 
 ### License
