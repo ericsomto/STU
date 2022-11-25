@@ -2,7 +2,8 @@
 
 ### Optimizations
 
-- performance improvements
+- performance
+- improvements
 - accessibility
 
 # Deployment
