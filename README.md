@@ -1,5 +1,7 @@
 # School Report System
 
+This was given to me as a project in school
+
 A simple command-line tool for generating student reports in C.
 Usage
 
@@ -21,3 +23,4 @@ This will generate the following output:
 ## License
 
 This project is licensed under the MIT License
+![aaa](https://user-images.githubusercontent.com/81354428/211712017-34461a2b-2778-4885-867f-5b85f42b204a.png)
